@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product code="1">
+    <productName>Brit Premium Salmon And Salmon Gravy Cat Dry Food</productName>
+    <productPrice>455</productPrice>
+    <productCategory>Food</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/brit-premium-salmon.jpg</productImage>
+  </product>
+  <product code="2">
+    <productName>Kit Cat Fillet 'O' Flakes Cat Dry Food</productName>
+    <productPrice>530</productPrice>
+    <productCategory>Food</productCategory>
+    <productQuantity>3</productQuantity>
+    <productImage>Images/kit-cat-fillet-o-flakes.jpg</productImage>
+  </product>
+  <product code="3">
+    <productName>Oasy Tuna Cat Dry Food</productName>
+    <productPrice>220</productPrice>
+    <productCategory>Food</productCategory>
+    <productQuantity>0</productQuantity>
+    <productImage>Images/oasy-tuna.jpg</productImage>
+  </product>
+  <product code="4">
+    <productName>Cindy's Recipe Delicious Deboned Tuna With Goat Milk 80G Cat Wet Food</productName>
+    <productPrice>50</productPrice>
+    <productCategory>Food</productCategory>
+    <productQuantity>4</productQuantity>
+    <productImage>Images/cindy-s-recipe-delicious-deboned-tuna.jpg</productImage>
+  </product>
+  <product code="5">
+    <productName>Goodest Cat Fish Frenzy Pate 85g Cat Wet Food</productName>
+    <productPrice>35</productPrice>
+    <productCategory>Food</productCategory>
+    <productQuantity>4</productQuantity>
+    <productImage>Images/goodest-cat-fish-frenzy-pate.jpg</productImage>
+  </product>
+  <product code="6">
+    <productName>Mingrui Pet Nail Clipper</productName>
+    <productPrice>300</productPrice>
+    <productCategory>Grooming</productCategory>
+    <productQuantity>3</productQuantity>
+    <productImage>Images/mingrui-pet-nail-clipper.jpg</productImage>
+  </product>
+  <product code="7">
+    <productName>Le Salon Essentials Rubber Grooming Brush With Loop Handle</productName>
+    <productPrice>435</productPrice>
+    <productCategory>Grooming</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/le-salon-essentials-rubber-grooming-brush.jpg</productImage>
+  </product>
+  <product code="8">
+    <productName>Petzyme Madre De Cacao 100g Pet Soap &amp; Shampoo Bar</productName>
+    <productPrice>110</productPrice>
+    <productCategory>Grooming</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/petzyme-madre-de-cacao.jpg</productImage>
+  </product>
+  <product code="9">
+    <productName>Reliq True Earth Mineral Spa Sandalwood 355ml Pet Shampoo</productName>
+    <productPrice>680</productPrice>
+    <productCategory>Grooming</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/reliq-true-earth-mineral-spa-sandalwood.jpg</productImage>
+  </product>
+  <product code="10">
+    <productName>Bath &amp; Buddy Aloe Vera 200ml Pet Cologne</productName>
+    <productPrice>250</productPrice>
+    <productCategory>Grooming</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bath-buddy-aloe-vera.jpg</productImage>
+  </product>
+  <product code="11">
+    <productName>Felizpaws Starry Purple Cat Collar</productName>
+    <productPrice>350</productPrice>
+    <productCategory>Accessories</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/felizpaws-starry-purple-cat-collar.jpg</productImage>
+  </product>
+  <product code="12">
+    <productName>GUGUpet Sunflower Pet Collar</productName>
+    <productPrice>300</productPrice>
+    <productCategory>Accessories</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/gugupet-sunflower-cat-collar.jpg</productImage>
+  </product>
+  <product code="13">
+    <productName>Charming Pet Birthday Party Pet Collar</productName>
+    <productPrice>350</productPrice>
+    <productCategory>Accessories</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/charming-pet-birthday-party-pet-collar.jpg</productImage>
+  </product>
+  <product code="14">
+    <productName>Zee.Cat Prisma Cat H-Harness With Leash</productName>
+    <productPrice>595</productPrice>
+    <productCategory>Accessories</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/zeecat-prisma-cat-h-harness-with-leash.jpg</productImage>
+  </product>
+  <product code="15">
+    <productName>Bullie Polly Adjustable Harness</productName>
+    <productPrice>825</productPrice>
+    <productCategory>Accessories</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="16">
+    <productName>Norweigian Forest Cat</productName>
+    <productPrice>36125</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/norwegian-forest-cats-.jpg</productImage>
+  </product>
+  <product code="17">
+    <productName>Himalayan Cat</productName>
+    <productPrice>38500</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="18">
+    <productName>Scottish Fold</productName>
+    <productPrice>45750</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="19">
+    <productName>Peterbald</productName>
+    <productPrice>24080</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="20">
+    <productName>Egyptian Mau</productName>
+    <productPrice>48160</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="21">
+    <productName>Maine Coon</productName>
+    <productPrice>37565</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="22">
+    <productName>LaPerm</productName>
+    <productPrice>19260</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="23">
+    <productName>Russian Blue</productName>
+    <productPrice>40930</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="24">
+    <productName>Serengeti Cat</productName>
+    <productPrice>50570</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="25">
+    <productName>Elf Cat</productName>
+    <productPrice>96320</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="26">
+    <productName>Toyger</productName>
+    <productPrice>98730</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="27">
+    <productName>American Curl</productName>
+    <productPrice>72240</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="28">
+    <productName>Bengal Cat</productName>
+    <productPrice>168565</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="29">
+    <productName>Safari</productName>
+    <productPrice>240800</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+  <product code="30">
+    <productName>Khao Manee</productName>
+    <productPrice>240800</productPrice>
+    <productCategory>Cat Breed</productCategory>
+    <productQuantity>5</productQuantity>
+    <productImage>Images/bullie-polly-adjustable-harness.jpg</productImage>
+  </product>
+</products>

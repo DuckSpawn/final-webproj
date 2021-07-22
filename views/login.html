@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://www.google.com/recaptcha/api.js" async></script>
+    <title>Home</title>
+</head>
+<body>
+    <!-- header code -->
+    <div class="header-container">
+        <div class="head-container">
+            <div class="storelogo">
+                <ul>
+                    <li class="logo"><img src="img/Catlogo.png" width="125px"></li>
+                    <li class="logoname">CATSHOPPE</li>
+                </ul>
+            </div>
+            <div class="home-btn">
+                <i>Home</i>
+            </div>
+        </div>
+    </div>
+    <!-- end header code -->
+    <div class="formHolder">
+        <div id="login-container">
+            <div class="labels">
+                <img src="img/user.png" id="users">
+                <h1>User login</h1>
+            </div>
+            <div class="login">
+                <p id="error"></p>
+                <input type="text" placeholder="Enter username.." autocomplete="off" name="username"> <br>
+                <input type="password" placeholder="Enter password.."  autocomplete="off" name="password">
+                <button id="btn-login" class="loginBtn">LOGIN</button>
+                <p>New to Catshoppe? </p><h5 id="register" class="goRegister">Sign-up</h5> 
+            </div>      
+        </div>
+    </div>
+    <p id="logerror"></p> <br>
+</body>
+</html>

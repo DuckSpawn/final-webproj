@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div#conversationView{
+            border: 1px solid black;
+            width: 300px;
+            height: 200px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column-reverse;
+        }
+    </style>
+</head>
+<body>
+    <h1>Messaging</h1>
+    <div id="conversationView" style="display: none;">
+    </div>
+    <div id="sendingMessageArea" style="display: none;">
+        <p id='asdf'>Receiver: <b id="receiver"></b></p>
+        <textarea name="msg-area" id="msg" cols="30" rows="5"></textarea><br>
+        <button id="sendbutton">Send</button>
+    </div>
+    
+    <div id="activeUsers"></div>
+</body>
+</html>
